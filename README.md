@@ -1,14 +1,16 @@
+# Arch dotfiles
+
+
+### Requirements
+
 ```
 sudo pacman -S git stow
 ```
 
+### Installation
+
 ```
-
-## Installation
-
-
-```git clone git@github.com/mikeitrain1/dotfiles.git```
-
-$ ```cd dotfiles```
-
-$ ``` stow . ```
+$ git clone git@github.com/dreamsofautonomy/dotfiles.git
+$ cd dotfiles
+$ stow .
+```
